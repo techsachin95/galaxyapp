@@ -1,0 +1,33 @@
+nav{
+    display: flex;justify-content: space-between;background-color: black;
+    height: 5vh;align-items: center;top: 0;
+    padding: 1.5rem;position: fixed;z-index: 1;width: 100%;
+}
+.logo {font-size: 1.6rem;}
+.menulink{
+  display: flex;gap: 4rem;font-size: 1.3rem;align-items: center;
+}
+.menulink a:hover {
+    color: orangered;
+}
+.hamberger {
+    display: none;
+}
+@media(max-width:862px) {
+    .hamberger {
+        display: block;font-size: 2rem;margin-right: 2rem;
+    }
+    .menulink{
+        position: absolute;flex-direction: column;height: 100vh;top: 0vh;width: 100%;left: -100%;
+        gap: 2rem;justify-content: center;display: flex;background-color: black;z-index: -1;
+    }
+    .menulink a{
+        padding-right: 3%;
+    }
+    .active{
+        left: 0%;
+    }
+    .logo {
+    font-size: 1.3rem;
+}
+}
