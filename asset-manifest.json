@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b77210e.css",
+    "main.js": "/static/js/main.edd93777.js",
+    "static/media/space1.mp4": "/static/media/space1.217bc138c2eb8d98fc50.mp4",
+    "static/media/header1.jpeg": "/static/media/header1.bb0c45a54f40d59848f5.jpeg",
+    "static/media/isro10.jpg": "/static/media/isro10.826ab78c7e30752c336d.jpg",
+    "static/media/satelight.jpg": "/static/media/satelight.3a590f22906334187e12.jpg",
+    "static/media/isro13.jpeg": "/static/media/isro13.06ab31a458ae02851a56.jpeg",
+    "static/media/partner.jpg": "/static/media/partner.20599c0ae9a57747ea29.jpg",
+    "static/media/isro11.jpg": "/static/media/isro11.30dc68d60a7a3fec3185.jpg",
+    "static/media/isro5.jpg": "/static/media/isro5.9671578129c8fad0c0eb.jpg",
+    "static/media/isro9.jpg": "/static/media/isro9.2ac0d2bf996fa999bc81.jpg",
+    "static/media/isro6.jpg": "/static/media/isro6.acbb44b87e98d822a60f.jpg",
+    "static/media/isro14.jpg": "/static/media/isro14.7990e818ade654122c64.jpg",
+    "static/media/isro12.avif": "/static/media/isro12.5120e92bcf34451c727b.avif",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.4b77210e.css.map": "/static/css/main.4b77210e.css.map",
+    "main.edd93777.js.map": "/static/js/main.edd93777.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b77210e.css",
+    "static/js/main.edd93777.js"
+  ]
+}
